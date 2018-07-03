@@ -31,4 +31,4 @@ let crypto = [
 — Устанавливаем на странице цветной блок, ширина которого привязана к цене валюты
 
 Пример:
-![no image](https://ucarecdn.com/f5c19cae-4551-4445-a422-874925fbceee/ "example pic")
+![no image](example.png "example pic")
